@@ -1,0 +1,10 @@
+{
+    "String": "Value",
+    "Array": [
+        "Array item 1",
+        "Array item 2"
+    ],
+    "Hash": {
+        "Key": "Value"
+    }
+}
